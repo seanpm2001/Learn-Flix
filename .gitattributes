@@ -29,6 +29,7 @@
 *.hta linguist-documentation=false
 *.hta linguist-language=HTML
 # Flix source file
+# 2025.09.20: Making a push, as today, I found that the GitHub linguist now recognizes Flix as a language (it originally did not when I published this file on 2024, February 22nd)
 *.flix linguist-detectable=true
 *.flix linguist-documentation=false
 *.flix linguist-language=Flix
@@ -171,7 +172,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Thursday, February 22nd at 09:56 pm PST)
-# Line count (including blank lines and compiler line): 178
+# File version: 6 (2025, Saturday, September 20th at 05:51 pm PST)
+# Line count (including blank lines and compiler line): 179
 
 # End of script
